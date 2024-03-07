@@ -1,5 +1,4 @@
 <h1 align="center">👋🏻 Hi! I'm hirabaru</h1>
-<h3 align="center">Software Engineer in Japan</h3>
 
 
 <h3 align="left">Zenn Contributions</h3>
